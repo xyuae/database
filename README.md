@@ -1,4 +1,10 @@
-## Naming Convention to be followed for attributes/tables:
+## Learning Resoruces
+[Primary key and foreign key](https://www.w3schools.com/sql/sql_foreignkey.asp)
+[Baseball schema](http://seanlahman.com/files/database/readme2014.txt)
+
+
+
+## Schema
 
 Table names:
 
@@ -41,8 +47,6 @@ empID primary key
 
 
 Project
-DROP TABLE IF EXISTS Project;
-CREATE TABLE Project(projID INT,title VARCHAR(100),budget INT,funds INT);
 primarykey projID
 
 Department
